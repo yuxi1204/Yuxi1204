@@ -40,7 +40,7 @@ In my free time, I enjoy **drawing and creative design**. I like expressing idea
 
 ## 📷 About Me
 
-![My Image](myphoto.jpg)
+![My Image](微信图片_20260309202656_1172_35.jpg)
 
 ---
 
