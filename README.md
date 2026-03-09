@@ -5,12 +5,8 @@
 </h1>
 
 <p align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Master+of+Software+Engineering+Student;Human-Computer+Interaction+%7C+UX+Design;Software+Project+Management+Enthusiast&center=true&width=500&height=45">
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&center=true&vCenter=true&width=600&lines=A%20girl%20who%20loves%20web%20design&gradient=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8B00FF&background=FFE4E1&repeat=true">
 </p>
-
----
 
 ## 👩‍💻 About Me
 
